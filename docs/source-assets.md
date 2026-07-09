@@ -1,10 +1,10 @@
 # Source assets
 
-Original source: https://github.com/jordojordo/lawndon
+Original source/remix parent: https://github.com/jordojordo/lawndon
 
-This repo tracks the Hawkridge documentation/refurbishment pass. Source code and PCB assets stay attributed to the original upstream project until a full import/refurbishment pass is approved.
+This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
 
-## Code/config candidates
+## Code, firmware, and configuration
 
 - `.github/workflows/compile-lawndon.yml`
 - `.github/workflows/tests.yml`
@@ -17,6 +17,6 @@ This repo tracks the Hawkridge documentation/refurbishment pass. Source code and
 - `lawndon/motor.cpp`
 - `lawndon/motor.h`
 
-## PCB/electronics manufacturing candidates
+## PCB and electronics manufacturing assets
 
-- None detected.
+- None listed for this package.
