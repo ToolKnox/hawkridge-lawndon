@@ -1,0 +1,42 @@
+name: Build Tests
+
+on:
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * 4"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Install Arduino cli
+        uses: arduino/setup-arduino-cli@v2
+
+      - name: Install libraries
+        run: |
+          arduino-cli lib install IBusBM Servo
+
+      - name: Lint project
+        uses: arduino/arduino-lint-action@v2
+        with:
+          path: ./lawndon
+          library-manager: update
+
+      - name: Compile Lawndon
+        uses: arduino/compile-sketches@v1
+        with:
+          fqbn: "arduino:avr:mega"
+          libraries: |
+            - name: IBusBM
+            - name: Servo
+          sketch-paths: |
+            - ./lawndon
+          enable-warnings-report: true
+          verbose: false
+          cli-compile-flags: |
+            - --export-binaries
