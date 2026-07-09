@@ -7,7 +7,7 @@ This repository holds the Hawkridge documentation and source-asset notes for the
 ## Where to find things
 
 - Printables model and printable files: https://www.printables.com/model/1776627-lawndon-rc-mower-conversion
-- Bill of Material: `Lawndon RC Mower Conversion Draft Bill of Material.pdf` in the Printables Documentation section
+- Bill of Material: `Lawndon RC Mower Conversion Bill of Material.pdf` in the Printables Documentation section
 - Parts list summary: `docs/BILL-OF-MATERIAL.md`
 - Source-code, firmware, PCB, and design-asset notes: `docs/source-assets.md`
 - Assembly or install notes, when available: files under `docs/`

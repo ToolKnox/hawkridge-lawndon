@@ -7,5 +7,5 @@ Printables page: https://www.printables.com/model/1776627-lawndon-rc-mower-conve
 ## Page sections
 
 - **Files** — printable STL/CAD files for the build.
-- **Documentation** — `Lawndon RC Mower Conversion Draft Bill of Material.pdf` with the parts list.
+- **Documentation** — `Lawndon RC Mower Conversion Bill of Material.pdf` with the parts list.
 - **Description** — short project overview and links back to these docs.
