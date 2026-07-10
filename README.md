@@ -1,6 +1,14 @@
 # Lawndon RC Mower Conversion
 
 Apache-2.0 recycled electric mower converted into a 3D-printable remote-controlled tracked/hill-climbing mower with Arduino firmware.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -61,4 +69,3 @@ https://github.com/jordojordo/lawndon
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-
