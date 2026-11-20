@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Length 7976 >>
+<< /Length 6609 >>
 stream
 0.0400 0.0400 0.0400 rg
 39.00 447.28 763.89 118.00 re f
@@ -51,7 +51,7 @@ BT /F1 8.00 Tf 117.00 534.28 Td (B I L L   O F   M A T E R I A L S) Tj ET
 1.0000 1.0000 1.0000 rg
 BT /F1 27.00 Tf 117.00 507.28 Td (Lawndon RC Mower Conversion) Tj ET
 0.8400 0.8600 0.8800 rg
-BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    4 items) Tj ET
+BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    3 items) Tj ET
 0.9500 0.9600 0.9800 rg
 0.8300 0.8600 0.9000 RG
 0.50 w
@@ -204,44 +204,6 @@ BT /F1 8.40 Tf 570.90 261.78 Td (Amazon Link) Tj ET
 BT /F3 8.00 Tf 656.00 268.28 Td (Servo library evidence; exact) Tj ET
 0.3000 0.3000 0.3000 rg
 BT /F3 8.00 Tf 656.00 258.28 Td (actuator list needs extraction.) Tj ET
-0.0800 0.1200 0.1800 rg
-39.00 230.28 763.89 18.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 9.50 Tf 49.00 235.78 Td (PRINTED PARTS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.00 Tf 329.00 235.78 Td (1 item) Tj ET
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 175.28 763.89 55.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 175.28 m 67.00 230.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 175.28 m 389.00 230.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 175.28 m 429.00 230.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 175.28 m 539.00 230.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 175.28 m 649.00 230.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 199.78 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 216.28 Td (Tracked mower printable drivetrain set) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 199.78 Td (1) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 481.75 199.78 Td (-) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 591.75 199.78 Td (-) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 217.28 Td (Reference only / printable-source) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 207.28 Td (row; excluded from purchase-link) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 197.28 Td (coverage before release. Track,) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 187.28 Td (pulleys, gears, housings present.) Tj ET
 0.5500 0.5500 0.5500 rg
 BT /F1 8.00 Tf 784.89 18.00 Td (1/1) Tj ET
 endstream
@@ -256,19 +218,19 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [548.26 405.28 802.89 431.28] /Border [0 0 0] /A << /S /URI /URI (https://www.printables.com/@TomKnox/store) >> >>
 endobj
 10 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 323.28 534.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfAsjYpqilIQaVVJ5RijgXxwkB6AGUcKANx0YakakYIu1qoc6Ni6mwYwTt8yatUnBeiW37b6ba5n2Z7Uu1nuC1SWLjAn5OCoSxxLVG2xvFP4WfTrCNcjIbURKZ1DEPkLKx70HypDd5reCixJyUropJtiGS0I28Z9cBbr1WlGjqGHazG34LLcQDX34MTyaF1TdLfySDcVhIWM15LqyOr7RkKxY9cSvgnxDcg5rXT5ofJdYbQGAewcmzCAWHDGmCZ82hpDQrEY3ruOiFALOMivpnP8X7V7MSfDXVfNUNkQEY0eXXgpEvqFt4GN32HTaAl5qYY9xYV94JeIqdVqxNYw9U4EEVYIzSUic0RtrWys7lpEwMglm52rlvlgvcWPOU93ZWX7V5WKLTo1iKg3kRvsodvWE6WPwx5FOVtcmjn8tsU7l2yUggr1lmHhx8N4tWPmhGXBRVRbBmd7nN2vF3rkhnDQahhs3OiZ8R1n8BQOrppTL3lUoznzl0csqQu0qukPLIKNSEWE4GVAH01i8MEdHIDjO01LfwmEvjJgQ5Obqsd7oZgQY2gqMUwkFlTDCKsQr9KtOgbwK8cQKI1jqQNTVdnEJ6TMuMrMeVE09NyupzZtau5l41STbfajCvu30bHw5Z2Lk5tg1VepGjOO4hFkvQzfScEufijs8b0pikyftx5KXK0cjyeB) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 323.28 534.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4m4PuYUtLGvubIQ1vCT8Pp4fLjRlmg6blBopkILFjt5w7XBALyXKMV1tQTOOqCuZNrnb17HutTRk6GOt1LTq1cEHi0dhHwriHihWTepa3eOtqU21RExGz4bE6J5bvCXJIW8CAlOWGfOiU0ZMovKVcUv3xK2ekR7ErO9mHoCIDiNQNeYnx9aMvoqdfczM7uEFUcpraSB6tMg2097Uwo0HyURiSAi2laVLDYj6fqapwNMP3HWfwsQCeTyGWZxyiDbw8VhNNUJ7ODXub3V4omv10kJDwpFpIpHwwG3DX81cRIIkUHEKLgESJ6qxBGgjHXmJ7fKXizRvjlTz5qXnoqhGcA9vwKkQMLGWuCOm4TDllbWUVg1WleT7gbFw6rHDfG0Bt8XpvxTAN4MM4JWtPAfP8E960dQRDnaOxvyb3hYezyNcJQbpf7O63axAAEZCDgKxtZiItwV90DoH0N9q40waJ5Fst6xAxEXvDdsMDYbnukWffKWiejgkkcXvPAUBchDHEXO1h5wzNV2W8FmVFdCBWJXbLWgI0oJoiC9HI2Osyya9Eu6PC9XITLSaiCrLMyYET9TbZNkM9X81IS6jGQCYgkhE8c9CFQ32ti9JqakPQisA9Yu0YJUpnHnokvcVofum0UNyFWUAyaLARQR3wViLVyZnVFRgvffRFhwGPfuMkMpHeQImla5iXBpW2pGdAvaQDkfhVre92dg3ZO) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 323.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/wBEFkfE) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 323.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/Lx2RLH) >> >>
 endobj
 12 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 301.28 534.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c43EM1MD?SearchText=RC+receiver+%2F+IBus-compatible+radio) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 301.28 534.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kPLKwJQG9Q0p4flG8GCDnLMGdcqOzAjssEe0eAkVjFaGvySRihvuC3KaI8cttsMuyQrvH8yj1EuiCCdhsjqstETyoVG4NrL1wGtPA9uH84zft9nc6l1kjR00LH2JgFe4B8j5hbrn4afB61ygOHE6nUmfuH8iAXDG7RCAB0rU1tdOzTj8dqQCGazVjxHxLUzN0BEPQOlCKd8n7Z9pY47hEr2CFDEkDPINn17O0fJsDYTAssylFN6RSXdFDsuW0VUCJKmQegyzUluk6oY8efS3tvf0J87n2LeBm1le5q7K4aS6d2MORlR5RCa03tJhRtHthqdZgVQwLIswIflbmCQXU8s4zGwcS52fys8rpXMU1i8CXsLesksHNgp5xPdQDEliRKFfBNDXMDNT7wr8HQxum7U4gSNU84MgDUcdVsUHNK2hwrifLusdL0RpTzhuVz4J77TFougs8Uk4vIRm2DvKFj9A79NrhQHHc7ehglRZSuK6YTjJ5dkIoXblfThL8DYlNwHl66JT8g3Fdo0k6XykulkYovlcwyHhlDP4EOekM1R7S1MvivdujgsXfEOREVmbNcq5KXuQPa3Yj0wa4L4nXwHFQFOEpo3DN0mVpXQdhg1xPDu5xO92dFbNWbEzyR7OPZKBZKCQaYkfSGzLPsLjDOs9sbInYpNxwWUm0jmYGWZpzSR5lVFCEd5BLyp67ATyxrREjxcvvYRJ6) >> >>
 endobj
 13 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 301.28 644.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/E9w82) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 301.28 644.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/2MhAMf) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 250.28 534.00 279.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3ja1SOh?SearchText=Servo+%2F+actuator+hardware) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 250.28 534.00 279.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4XDCYpx?SearchText=Servo+actuator+hardware) >> >>
 endobj
 15 0 obj
 << /Type /Annot /Subtype /Link /Rect [544.00 250.28 644.00 279.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/S0uNfhw) >> >>
@@ -285,18 +247,18 @@ xref
 0000000192 00000 n 
 0000000267 00000 n 
 0000000345 00000 n 
-0000008373 00000 n 
-0000008566 00000 n 
-0000008733 00000 n 
-0000008900 00000 n 
-0000010065 00000 n 
+0000007006 00000 n 
+0000007199 00000 n 
+0000007366 00000 n 
+0000007533 00000 n 
+0000008725 00000 n 
+0000008874 00000 n 
+0000010066 00000 n 
 0000010215 00000 n 
-0000010433 00000 n 
-0000010581 00000 n 
-0000010789 00000 n 
-0000010939 00000 n 
+0000010419 00000 n 
+0000010569 00000 n 
 trailer
 << /Size 17 /Root 1 0 R >>
 startxref
-11162
+10792
 %%EOF
